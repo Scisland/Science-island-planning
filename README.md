@@ -5,6 +5,7 @@ This is a living document hub for science island. <Someone should provide a quic
 ## Committees
 
 ## Initiatives
+* (Info-gathering)[https://github.com/Scisland/Science-island-planning/tree/sfradley/create-new-directory/info-gathering]
 
 ### Contributions
   Want to suggest a change to this or other documents?
@@ -22,4 +23,4 @@ This is a living document hub for science island. <Someone should provide a quic
   4. Commit the change into a branch
   5. Open a pull request against the Scisland/Science-island-planning repo
   
-  What is markdown? It's a neat typesetting language that makes pretty documents much faster than html or LaTex but slower than word or google docs. However it is failry straightforward. [Here's](https://www.markdownguide.org/basic-syntax/) a handy reference.
+  What is markdown? It's a neat typesetting language that makes pretty documents much faster than html or LaTex but slower than word or google docs. However, it is fairly straightforward. [Here's](https://www.markdownguide.org/basic-syntax/) a handy reference.
